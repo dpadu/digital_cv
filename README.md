@@ -1,15 +1,32 @@
-## Welcome to GitHub Pages
+## Daniel Oppong Adu
 
-You can use the [editor on GitHub](https://github.com/dpadu/digital_cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal Profile
+I am a motivated, responsible and approachable individual with a strong work ethics and consistently maintained high level of integrity at all levels, built upon a career in IT. After a period of redundancy due to COVID-19 and relocation, I decided on further improving and learning more in the area of technology, and began re-training with TechTalent’s Academy in AWS-reStart program. I plan to take my improved skill in Cloud Computing (AWS), Linux, Networking, Security, Python, JavaScript, Database to market, and actively seeking employment at the entry level to coincide with my study.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Educational Background
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2021: TechTalent Academy
 
 ```markdown
-Syntax highlighted code block
+An intensive 12-week course, focused on the fundamentals of software development, delivered through a combination 
+of interactive group learning, and home learning tasks.
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+2021: NETCOM TRAINING
+
+```markdown
+Website and Marketing Course designed to help learner develop knowledge related to the Principles of Website Building 
+and Marketing, develop technical knowledge and understanding in website programming and design logic, 
+and dedicated application usage.
+Key Module includes: 
+- Visual Design, 
+- Design Process, 
+- Web Design and 
+- Digital Marketing and Business Principles 
+
 
 # Header 1
 ## Header 2
